@@ -33,7 +33,7 @@ def find_closest_points(array1, array2):
     
     return closest_points
 
-# Trying an exmaple to see if this work
+# Trying an example to see if this work
 array1 = [(40.748817, -73.985428), (34.052235, -118.243683)]  
 array2 = [(51.507351, -0.127758), (48.856613, 2.352222), (40.730610, -73.935242)]  
 
